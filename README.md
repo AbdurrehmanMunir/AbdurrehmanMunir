@@ -37,7 +37,9 @@
 <br/>Also comfortable with: Prisma ORM, BigQuery, REST APIs
 
 ---
-![snake](https://raw.githubusercontent.com/AbdurrehmanMunir/AbdurrehmanMunir/output/dist/snake-dark.svg)
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/AbdurrehmanMunir/AbdurrehmanMunir/output/dist/snake-dark.svg)
 ### 📌 Featured Projects
 
 | Project | Tech Stack | Highlights |
