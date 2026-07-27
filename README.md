@@ -18,6 +18,10 @@
 - 💼 Open to freelance & remote opportunities
 - 📫 Reach me: **abdurrehmanm939@gmail.com**
 
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/AbdurrehmanMunir/AbdurrehmanMunir/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ### 🧰 Tech Stack
@@ -33,9 +37,7 @@
 <br/>Also comfortable with: Prisma ORM, BigQuery, REST APIs
 
 ---
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/AbdurrehmanMunir/AbdurrehmanMunir/output/dist/snake-dark.svg)
 ### 📌 Featured Projects
 
 | Project | Tech Stack | Highlights |
