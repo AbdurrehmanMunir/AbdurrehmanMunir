@@ -1,8 +1,4 @@
-<!--
-  Two things to double-check before you commit:
-  1. Your GitHub username (AbdurrehmanMunir) is already filled in everywhere.
-  2. Swap YOUR-LINKEDIN below for your real LinkedIn handle.
--->
+
 
 <h1 align="center">Hi there, I'm Abdurrehman Munir 👋</h1>
 <h3 align="center">Computer Science Student • Flutter & AI Developer • Full-Stack Engineer</h3>
